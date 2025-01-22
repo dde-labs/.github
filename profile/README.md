@@ -1,10 +1,14 @@
 # Welcome to Data Developer and Engineer Labs 👋
 
-This organization will be my sandbox of testing and researching any data solutions.
+This organization will keep all my sandbox projects for research and develop any data tools and solutions.
 
-## Interface
+## Interfaces
 
-Any project will use the same files structure:
+- [**Elastic**](https://github.com/dde-labs/self-elasticsearch)
+- [**LakeHouse**](https://github.com/dde-labs/self-lake)
+- **Notify** (Comming Soon)
+
+All interface projects use the same files structure:
 
 ```text
 root/
@@ -20,10 +24,7 @@ root/
  ╰─ requirements.txt
 ```
 
-- **Elastic**
-- **Jira**
-- **Databricks**
+## Applications
 
-## Application
-
-- **Airflow**
+- [**Airflow Generator**](https://github.com/dde-labs/self-airflow-min)
+- **DBT** (Comming Soon)

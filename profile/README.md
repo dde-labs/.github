@@ -32,3 +32,7 @@ This part create my interface object for easy to use the target API tools.
 
 - [**Airflow Generator**](https://github.com/dde-labs/self-airflow-min): Create the Best practice of Airflow with Minimal Generator DAG Concept
 - [**DBT**]() (Comming Soon): Create the Best practice for DBT
+
+## Assingments
+
+Comming Soon ...

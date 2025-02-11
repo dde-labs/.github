@@ -17,6 +17,8 @@ This part create my interface object for easy to use the target API tools.
 > 
 > ```text
 > root/
+>  ├─ docs/
+>  │   ╰─ index.md
 >  ├─ src/
 >  │   ├─ modules/
 >  │   │   ├─ __init__.py
@@ -31,9 +33,13 @@ This part create my interface object for easy to use the target API tools.
 
 ## :joystick: Applications
 
-- [**Airflow Generator**](https://github.com/dde-labs/self-airflow-min): Create the Best practice of Airflow with Minimal Generator DAG Concept
-- [**DBT**]() (Comming Soon): Create the Best practice for DBT
+- [🌬️ **Airflow Generator**](https://github.com/dde-labs/self-airflow-min): Create the Best practice of Airflow with Minimal Generator DAG Concept
+- [🛠️ **DBT**]() (Comming Soon): Create the Best practice for DBT
 
-## Assingments
+> [!NOTE]
+> This module has setup file for the local installation.
 
-Comming Soon ...
+## :scroll: Assingments
+
+> [!NOTE]
+> Comming Soon ...

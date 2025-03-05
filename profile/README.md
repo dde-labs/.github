@@ -33,7 +33,8 @@ This part create my interface object for easy to use the target API tools.
 
 ## :joystick: Applications
 
-- [🌬️ **Airflow Generator**](https://github.com/dde-labs/self-airflow-min): Create the Best practice of Airflow with Minimal Generator DAG Concept.
+- [🌬️ **Airflow**](https://github.com/dde-labs/self-airflow): Create the Best practice of Airflow.
+- [🌬️🧰 **Airflow Generator**](https://github.com/dde-labs/self-airflow-min): Create the Best practice of Airflow with Minimal Generator DAG Concept.
 - [🛠️ **DBT**]() (Comming Soon): Create the Best practice for DBT.
 - [✅ Great Expectation]() (Comming Soon): Create the Best practice for Great Expectation.
 
